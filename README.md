@@ -1,3 +1,5 @@
+<img align ="center" src="https://github.com/swapnilm06/swapnilm06/blob/main/githubtemp.png"/>
+
 <h1 align="center">Hi 👋, I'm Swapnil More !!</h1>
 <h3 align="center">A passionate CSE-Data Science Student from India</h3>
 
