@@ -1,4 +1,4 @@
-<img align ="center" src="https://github.com/swapnilm06/swapnilm06/blob/main/githubtemp.png"/>
+<img align ="center" src="https://github.com/swapnilm06/swapnilm06/blob/main/LINKED%20IN%20UPDATED.png"/>
 
 <h1 align="center">Hi 👋, I'm Swapnil More !!</h1>
 <h3 align="center">ABAP Developer</h3>
